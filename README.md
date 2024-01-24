@@ -17,6 +17,8 @@
 
 
 
+
+
 ### Hey Folks 🤙
 
 I am Shivatmak Sharma, 
@@ -24,6 +26,8 @@ I am Shivatmak Sharma,
 A data science enthusiast who is keen to learn about new ideas and techlogies that leverage data for better decision making. 
 
 #### More About Me ? 👀
+
+
 
 <details> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
