@@ -25,7 +25,7 @@ A data science enthusiast who is keen to learn about new ideas and techlogies th
 
 #### More About Me ? 👀
 
-<details> 
+<details open> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
