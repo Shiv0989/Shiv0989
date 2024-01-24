@@ -23,7 +23,7 @@
 
 I am Shivatmak Sharma, 
 
-A data science enthusiast who is keen to learn about new ideas and techlogies that leverage data for better decision making. 
+A data science enthusiast who is keen to learn about new ideas and technologies that leverage data for better decision making. 
 
 #### More About Me ? 👀
 
