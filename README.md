@@ -25,7 +25,7 @@ A data science enthusiast who is keen to learn about new ideas and techlogies th
 
 #### More About Me ? 👀
 
-<details open> 
+<details> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
@@ -79,7 +79,7 @@ A data science enthusiast who is keen to learn about new ideas and techlogies th
 
 </details>
 
-<details open> 
+<details> 
   <summary><h2>📘 Some of My Projects</h2></summary>
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
