@@ -86,9 +86,7 @@ A data science enthusiast who is keen to learn about new ideas and techlogies th
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="left">
     <a href="https://github.com/Shiv0989/Sales_Dynamite"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Shiv0989&repo=Sales_Dynamite&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Sales_Dynamite"></a>
-    <a href="https://github.com/Shiv0989/Analysis-Early-Learning-NSW-ACT"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Shiv0989&repo=Analysis-Early-Learning-NSW-ACT
-&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Analysis-Early-Learning-NSW-ACT
-"></a>
+    <a href="https://github.com/Shiv0989/Analysis-Early-Learning-NSW-ACT"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Shiv0989&repo=Analysis-Early-Learning-NSW-ACT&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Analysis-Early-Learning-NSW-ACT"></a>
     <a href="https://github.com/Shiv0989/NBA-player-prediction"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Shiv0989&repo=NBA-player-prediction&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="NBA-player-prediction"></a>
     <a href="https://github.com/Shiv0989/ANLP_Retail_Crisis_Detection"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Shiv0989&repo=ANLP_Retail_Crisis_Detection&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="ANLP_Retail_Crisis_Detection"></a>
 
